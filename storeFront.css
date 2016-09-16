@@ -1,0 +1,22 @@
+ .scroll {
+            display: block;
+            background-color: blue;
+        }
+        
+ .line {
+            
+float: right;
+display: block;
+text-align: center;
+padding: 5px 5px;
+        }
+
+.fixed{
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  top: 0;
+  left: 0;
+  
+}
